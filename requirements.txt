@@ -1,0 +1,16 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+certifi==2019.11.28
+chardet==3.0.4
+dnspython==1.16.0
+eventlet==0.25.2
+greenlet==0.4.15
+idna==2.9
+monotonic==1.5
+requests==2.23.0
+requests-file==1.4.3
+six==1.14.0
+soupsieve==2.0
+timeout-decorator==0.4.1
+tldextract==2.2.2
+urllib3==1.25.8

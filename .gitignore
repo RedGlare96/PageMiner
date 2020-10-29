@@ -1,0 +1,10 @@
+logs/
+dump/
+.idea/
+1st-run.json
+dump.rar
+run-instances.rar
+venv/
+status/
+run-instances/
+get_status.py
